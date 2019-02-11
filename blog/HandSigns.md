@@ -28,7 +28,7 @@ This tutorial is among a series explaining the code examples:
 - [getting started: installation, getting started with the code for the projects](/blog/tips)
 - [PyTorch Introduction: global structure of the PyTorch code examples](/blog/pytorch)
 - this post: predicting labels from images of hand signs
-- [NLP: Named Entity Recognition (NER) tagging for sentences](/blog/NameEntity)
+- [NLP: Named Entity Recognition (NER) tagging for sentences](/blog/namedentity)
 
 **Goals of this tutorial**
 
@@ -176,4 +176,4 @@ And that’s it! We use an appropriate loss function (Negative Loss Likelihood, 
 - [ImageNet](https://github.com/pytorch/examples/blob/master/imagenet/main.py): Code for training on ImageNet in PyTorch
 
 
-That concludes the description of the PyTorch Vision code example. You can proceed to the [NLP](/blog/NameEntity) example to understand how we load data and define models for text.
+That concludes the description of the PyTorch Vision code example. You can proceed to the [NLP](/blog/namedentity) example to understand how we load data and define models for text.

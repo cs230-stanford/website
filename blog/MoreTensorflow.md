@@ -32,8 +32,8 @@ tensorflow/
 This tutorial is among a series explaining how to structure a deep learning project:
 - [installation, get started with the code for the projects](blog/tips)
 - **this post: (TensorFlow) explain the global structure of the code**
-- [(TensorFlow) how to build the data pipeline](/blog/DataPipeline)
-- [(Tensorflow) how to build the model and train it](/blog/CreateTrainModel) 
+- [(TensorFlow) how to build the data pipeline](/blog/datapipeline)
+- [(Tensorflow) how to build the model and train it](/blog/createtrainmodel) 
 
 ## **Goals of this tutorial**
 - learn more about TensorFlow

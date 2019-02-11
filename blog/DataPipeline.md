@@ -30,7 +30,7 @@ This tutorial is among a series explaining how to structure a deep learning proj
 - [installation, get started with the code for the projects](/blog/tips)
 - [(TensorFlow) how to build the data pipeline](/blog/tensorflow)
 - this post: how to build the model and train it
-- [(Tensorflow) how to build the model and train it](/blog/CreateTrainModel)
+- [(Tensorflow) how to build the model and train it](/blog/createtrainmodel)
 
 ## **Goals of this tutorial**
 
@@ -192,7 +192,7 @@ iterator_init_op = iterator.initializer
 inputs = {'images': images, 'labels': labels, 'iterator_init_op': iterator_init_op}
 ```
 
-This dictionary of inputs will be passed to the model function, which we will detail in the [next post](/blog/CreateTrainModel).
+This dictionary of inputs will be passed to the model function, which we will detail in the [next post](/blog/createtrainmodel).
 
 ## **Building an image data pipeline**
 
